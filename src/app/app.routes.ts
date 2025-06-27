@@ -7,11 +7,11 @@ import { RouterGuardsDemo } from './pages/router-guards-demo/router-guards-demo'
 import { Contributors } from './pages/contributors/contributors';
 
 export const routes: Routes = [
-  { path: '', component: HomePage }, 
-  { path: 'home', component: HomePage }, 
-  { path: 'table', component: TableDemo }, 
-  { path: 'modal', component: ModalDemo }, 
-  { path: 'signals', component: SignalsDemo }, 
-  { path: 'router-guards', component: RouterGuardsDemo }, 
-  { path: 'contributors', component: Contributors }, 
+  { path: '', component: HomePage, pathMatch: 'full' }, // Default route
+  { path: 'home', component: HomePage, title: 'Home Page' }, 
+  { path: 'table', component: TableDemo, title: 'Table Demo' },  
+  { path: 'modal', component: ModalDemo, title: 'Modal Demo' },  
+  { path: 'signals', component: SignalsDemo, title: 'Signals Demo' }, 
+  { path: 'router-guards', component: RouterGuardsDemo, title: 'Router Guards Demo' },  
+  { path: 'contributors', component: Contributors, title: 'Contributors' }, 
 ];

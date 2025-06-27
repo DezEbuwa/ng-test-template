@@ -1,1 +1,13 @@
-<p>signals-demo works!</p>
+<mat-card class="content-card">
+  <mat-card-header>
+    <mat-card-title> Signals Demo</mat-card-title>
+    <mat-card-subtitle>Let's learn how to use signals with Angular</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-content>
+    <label for="favcolor">Select your favorite color:</label>
+    <input type="color" id="favcolor" [value]="currentColor()" (change)="update($event)" />
+    <div class="listeners-container">
+      <app-signals-listener *ngFor="let listener of listeners"></app-signals-listener>
+    </div>
+  </mat-card-content>
+</mat-card>
