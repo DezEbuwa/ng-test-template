@@ -25,6 +25,18 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
   color: var(--lockheed-white) !important;
 }
 
+.navButton {
+  color: var(--lockheed-white) !important;
+  font-weight: bold;
+}
+
+.content-card {
+  margin: 20px auto;
+  max-width: 90%;
+
+  padding: 20px;
+}
+
 /* Accent buttons */
 .mat-button.mat-accent,
 .mat-raised-button.mat-accent,

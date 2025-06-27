@@ -1,0 +1,967 @@
+{
+  "actor": "Samuel L. Jackson",
+  "birth_date": "December 21, 1948",
+  "birth_place": "Washington, D.C., United States",
+  "total_films": "150+",
+  "box_office_gross": "$27+ billion worldwide",
+  "career_span": "1972-present",
+  "notable_awards": [
+    "Academy Honorary Award (2022)",
+    "BAFTA Award for Best Actor in a Supporting Role (Pulp Fiction)",
+    "Cannes Film Festival Special Jury Prize (Jungle Fever)"
+  ],
+  "filmography": [
+    {
+      "year": 1972,
+      "title": "Together for Days",
+      "role": "Stan",
+      "director": "Michael Schultz",
+      "studio": "Unknown",
+      "notes": "Film debut, leading role"
+    },
+    {
+      "year": 1981,
+      "title": "Ragtime",
+      "role": "Gang Member #2",
+      "director": "Miloš Forman",
+      "studio": "Paramount Pictures",
+      "notes": "Minor role"
+    },
+    {
+      "year": 1987,
+      "title": "Eddie Murphy Raw",
+      "role": "Various",
+      "director": "Robert Townsend",
+      "studio": "Paramount Pictures",
+      "notes": "Stand-up comedy special appearance"
+    },
+    {
+      "year": 1988,
+      "title": "Coming to America",
+      "role": "Hold-up Man",
+      "director": "John Landis",
+      "studio": "Paramount Pictures",
+      "notes": "Minor role"
+    },
+    {
+      "year": 1988,
+      "title": "School Daze",
+      "role": "Leeds",
+      "director": "Spike Lee",
+      "studio": "Columbia Pictures",
+      "notes": "Early collaboration with Spike Lee"
+    },
+    {
+      "year": 1989,
+      "title": "Do the Right Thing",
+      "role": "Mister Senor Love Daddy",
+      "director": "Spike Lee",
+      "studio": "Universal Pictures",
+      "notes": "Radio DJ character"
+    },
+    {
+      "year": 1990,
+      "title": "Def by Temptation",
+      "role": "Minister Garth",
+      "director": "James Bond III",
+      "studio": "Troma Entertainment",
+      "notes": "Horror film"
+    },
+    {
+      "year": 1990,
+      "title": "Mo' Better Blues",
+      "role": "Madlock",
+      "director": "Spike Lee",
+      "studio": "Universal Pictures",
+      "notes": "Supporting role"
+    },
+    {
+      "year": 1990,
+      "title": "Goodfellas",
+      "role": "Stacks Edwards",
+      "director": "Martin Scorsese",
+      "studio": "Warner Bros.",
+      "notes": "Minor but memorable role"
+    },
+    {
+      "year": 1990,
+      "title": "The Exorcist III",
+      "role": "Dream Sequence Victim",
+      "director": "William Peter Blatty",
+      "studio": "20th Century Fox",
+      "notes": "Horror film cameo"
+    },
+    {
+      "year": 1990,
+      "title": "The Return of Superfly",
+      "role": "Nate Cabot",
+      "director": "Sig Shore",
+      "studio": "Triton Pictures",
+      "notes": "Crime drama"
+    },
+    {
+      "year": 1991,
+      "title": "Jungle Fever",
+      "role": "Gator Purify",
+      "director": "Spike Lee",
+      "studio": "Universal Pictures",
+      "notes": "Breakthrough role, Cannes Special Jury Prize"
+    },
+    {
+      "year": 1991,
+      "title": "Strictly Business",
+      "role": "Monroe",
+      "director": "Kevin Hooks",
+      "studio": "Warner Bros.",
+      "notes": "Comedy"
+    },
+    {
+      "year": 1992,
+      "title": "Jumpin' at the Boneyard",
+      "role": "Manny",
+      "director": "Jeff Stanzler",
+      "studio": "20th Century Fox",
+      "notes": "Drama"
+    },
+    {
+      "year": 1992,
+      "title": "Juice",
+      "role": "Trip",
+      "director": "Ernest R. Dickerson",
+      "studio": "Paramount Pictures",
+      "notes": "Crime drama"
+    },
+    {
+      "year": 1992,
+      "title": "Patriot Games",
+      "role": "Lieutenant Commander Robby Jackson",
+      "director": "Phillip Noyce",
+      "studio": "Paramount Pictures",
+      "notes": "Tom Clancy adaptation"
+    },
+    {
+      "year": 1992,
+      "title": "White Sands",
+      "role": "Greg Meeker",
+      "director": "Roger Donaldson",
+      "studio": "Warner Bros.",
+      "notes": "Thriller"
+    },
+    {
+      "year": 1993,
+      "title": "Fathers & Sons",
+      "role": "Marshall",
+      "director": "Paul Mones",
+      "studio": "Columbia Pictures",
+      "notes": "Drama"
+    },
+    {
+      "year": 1993,
+      "title": "Menace II Society",
+      "role": "Tat Lawson",
+      "director": "Albert Hughes, Allen Hughes",
+      "studio": "New Line Cinema",
+      "notes": "Crime drama, uncredited"
+    },
+    {
+      "year": 1993,
+      "title": "National Lampoon's Loaded Weapon 1",
+      "role": "Sergeant Wes Luger",
+      "director": "Gene Quintano",
+      "studio": "New Line Cinema",
+      "notes": "First starring role, comedy parody"
+    },
+    {
+      "year": 1993,
+      "title": "Amos & Andrew",
+      "role": "Amos Odell",
+      "director": "E. Max Frye",
+      "studio": "Castle Rock Entertainment",
+      "notes": "Comedy with Nicolas Cage"
+    },
+    {
+      "year": 1993,
+      "title": "Jurassic Park",
+      "role": "Ray Arnold",
+      "director": "Steven Spielberg",
+      "studio": "Universal Pictures",
+      "notes": "Blockbuster, systems analyst"
+    },
+    {
+      "year": 1993,
+      "title": "True Romance",
+      "role": "Big Don",
+      "director": "Tony Scott",
+      "studio": "Warner Bros.",
+      "notes": "Written by Quentin Tarantino"
+    },
+    {
+      "year": 1994,
+      "title": "Fresh",
+      "role": "Sam",
+      "director": "Boaz Yakin",
+      "studio": "Miramax Films",
+      "notes": "Crime drama"
+    },
+    {
+      "year": 1994,
+      "title": "Pulp Fiction",
+      "role": "Jules Winnfield",
+      "director": "Quentin Tarantino",
+      "studio": "Miramax Films",
+      "notes": "Career-defining role, Oscar nomination"
+    },
+    {
+      "year": 1994,
+      "title": "The New Age",
+      "role": "Dale",
+      "director": "Michael Tolkin",
+      "studio": "Warner Bros.",
+      "notes": "Drama"
+    },
+    {
+      "year": 1994,
+      "title": "Hail Caesar",
+      "role": "Buffer",
+      "director": "Anthony Michael Hall",
+      "studio": "Phaedra Cinema",
+      "notes": "Comedy"
+    },
+    {
+      "year": 1995,
+      "title": "The Search for One-Eye Jimmy",
+      "role": "Colonel Ron",
+      "director": "Sam Henry Kass",
+      "studio": "Trimark Pictures",
+      "notes": "Independent comedy"
+    },
+    {
+      "year": 1995,
+      "title": "Kiss of Death",
+      "role": "Calvin",
+      "director": "Barbet Schroeder",
+      "studio": "20th Century Fox",
+      "notes": "Crime thriller"
+    },
+    {
+      "year": 1995,
+      "title": "Losing Isaiah",
+      "role": "Kadar Lewis",
+      "director": "Stephen Gyllenhaal",
+      "studio": "Paramount Pictures",
+      "notes": "Drama with Halle Berry"
+    },
+    {
+      "year": 1995,
+      "title": "Fluke",
+      "role": "Rumbo",
+      "director": "Carlo Carlei",
+      "studio": "MGM",
+      "notes": "Voice role, family film"
+    },
+    {
+      "year": 1995,
+      "title": "Die Hard with a Vengeance",
+      "role": "Zeus Carver",
+      "director": "John McTiernan",
+      "studio": "20th Century Fox",
+      "notes": "Action blockbuster with Bruce Willis"
+    },
+    {
+      "year": 1996,
+      "title": "The Great White Hype",
+      "role": "Rev. Fred Sultan",
+      "director": "Reginald Hudlin",
+      "studio": "20th Century Fox",
+      "notes": "Boxing comedy satire"
+    },
+    {
+      "year": 1996,
+      "title": "A Time to Kill",
+      "role": "Carl Lee Hailey",
+      "director": "Joel Schumacher",
+      "studio": "Warner Bros.",
+      "notes": "John Grisham adaptation, Golden Globe nomination"
+    },
+    {
+      "year": 1996,
+      "title": "The Long Kiss Goodnight",
+      "role": "Mitch Henessey",
+      "director": "Renny Harlin",
+      "studio": "New Line Cinema",
+      "notes": "Action thriller with Geena Davis"
+    },
+    {
+      "year": 1997,
+      "title": "Hard Eight",
+      "role": "Jimmy the Young Man",
+      "director": "Paul Thomas Anderson",
+      "studio": "Sony Pictures Classics",
+      "notes": "Paul Thomas Anderson's debut"
+    },
+    {
+      "year": 1996,
+      "title": "Trees Lounge",
+      "role": "Man With Gun",
+      "director": "Steve Buscemi",
+      "studio": "Live Entertainment",
+      "notes": "Cameo in Steve Buscemi film"
+    },
+    {
+      "year": 1997,
+      "title": "187",
+      "role": "Trevor Garfield",
+      "director": "Kevin Reynolds",
+      "studio": "Warner Bros.",
+      "notes": "Teacher drama thriller"
+    },
+    {
+      "year": 1997,
+      "title": "Eve's Bayou",
+      "role": "Louis Batiste",
+      "director": "Kasi Lemmons",
+      "studio": "Trimark Pictures",
+      "notes": "Independent Spirit Award"
+    },
+    {
+      "year": 1997,
+      "title": "Jackie Brown",
+      "role": "Ordell Robbie",
+      "director": "Quentin Tarantino",
+      "studio": "Miramax Films",
+      "notes": "Based on Elmore Leonard novel, Golden Globe nomination"
+    },
+    {
+      "year": 1998,
+      "title": "Sphere",
+      "role": "Harry Adams",
+      "director": "Barry Levinson",
+      "studio": "Warner Bros.",
+      "notes": "Michael Crichton adaptation"
+    },
+    {
+      "year": 1998,
+      "title": "The Negotiator",
+      "role": "Lieutenant Danny Roman",
+      "director": "F. Gary Gray",
+      "studio": "Warner Bros.",
+      "notes": "Thriller with Kevin Spacey"
+    },
+    {
+      "year": 1998,
+      "title": "Out of Sight",
+      "role": "Snoopy Miller",
+      "director": "Steven Soderbergh",
+      "studio": "Universal Pictures",
+      "notes": "Elmore Leonard adaptation, uncredited cameo"
+    },
+    {
+      "year": 1999,
+      "title": "The Red Violin",
+      "role": "Charles Morritz",
+      "director": "François Girard",
+      "studio": "Lions Gate Films",
+      "notes": "International co-production"
+    },
+    {
+      "year": 1999,
+      "title": "Star Wars: Episode I – The Phantom Menace",
+      "role": "Mace Windu",
+      "director": "George Lucas",
+      "studio": "20th Century Fox",
+      "notes": "Jedi Master, first Star Wars appearance"
+    },
+    {
+      "year": 1999,
+      "title": "Deep Blue Sea",
+      "role": "Russell Franklin",
+      "director": "Renny Harlin",
+      "studio": "Warner Bros.",
+      "notes": "Shark thriller"
+    },
+    {
+      "year": 2000,
+      "title": "Rules of Engagement",
+      "role": "Colonel Terry Childers",
+      "director": "William Friedkin",
+      "studio": "Paramount Pictures",
+      "notes": "Military courtroom drama"
+    },
+    {
+      "year": 2000,
+      "title": "Shaft",
+      "role": "John Shaft",
+      "director": "John Singleton",
+      "studio": "Paramount Pictures",
+      "notes": "Remake/sequel, title character"
+    },
+    {
+      "year": 2000,
+      "title": "Unbreakable",
+      "role": "Elijah Price / Mr. Glass",
+      "director": "M. Night Shyamalan",
+      "studio": "Touchstone Pictures",
+      "notes": "Superhero thriller with Bruce Willis"
+    },
+    {
+      "year": 2001,
+      "title": "The Caveman's Valentine",
+      "role": "Romulus Ledbetter",
+      "director": "Kasi Lemmons",
+      "studio": "Universal Pictures",
+      "notes": "Psychological thriller"
+    },
+    {
+      "year": 2001,
+      "title": "Formula 51",
+      "role": "Elmo McElroy",
+      "director": "Ronny Yu",
+      "studio": "Screen Gems",
+      "notes": "Action comedy (UK: The 51st State)"
+    },
+    {
+      "year": 2002,
+      "title": "Changing Lanes",
+      "role": "Doyle Gipson",
+      "director": "Roger Michell",
+      "studio": "Paramount Pictures",
+      "notes": "Thriller with Ben Affleck"
+    },
+    {
+      "year": 2002,
+      "title": "Star Wars: Episode II – Attack of the Clones",
+      "role": "Mace Windu",
+      "director": "George Lucas",
+      "studio": "20th Century Fox",
+      "notes": "Second Star Wars prequel"
+    },
+    {
+      "year": 2002,
+      "title": "XXX",
+      "role": "Agent Augustus Gibbons",
+      "director": "Rob Cohen",
+      "studio": "Columbia Pictures",
+      "notes": "Action film with Vin Diesel"
+    },
+    {
+      "year": 2003,
+      "title": "Basic",
+      "role": "Sergeant Nathan West",
+      "director": "John McTiernan",
+      "studio": "Columbia Pictures",
+      "notes": "Military thriller"
+    },
+    {
+      "year": 2003,
+      "title": "S.W.A.T.",
+      "role": "Sergeant Dan 'Hondo' Harrelson",
+      "director": "Clark Johnson",
+      "studio": "Columbia Pictures",
+      "notes": "Action film"
+    },
+    {
+      "year": 2004,
+      "title": "Twisted",
+      "role": "Lieutenant Delmarco",
+      "director": "Philip Kaufman",
+      "studio": "Paramount Pictures",
+      "notes": "Thriller with Ashley Judd"
+    },
+    {
+      "year": 2004,
+      "title": "Kill Bill: Volume 2",
+      "role": "Rufus",
+      "director": "Quentin Tarantino",
+      "studio": "Miramax Films",
+      "notes": "Piano player in flashback"
+    },
+    {
+      "year": 2004,
+      "title": "The Incredibles",
+      "role": "Lucius Best / Frozone",
+      "director": "Brad Bird",
+      "studio": "Pixar / Disney",
+      "notes": "Voice role, superhero animation"
+    },
+    {
+      "year": 2005,
+      "title": "In My Country",
+      "role": "Langston Whitfield",
+      "director": "John Boorman",
+      "studio": "Sony Pictures Classics",
+      "notes": "Drama about South African Truth Commission"
+    },
+    {
+      "year": 2005,
+      "title": "Coach Carter",
+      "role": "Ken Carter",
+      "director": "Thomas Carter",
+      "studio": "Paramount Pictures",
+      "notes": "Sports drama based on true story"
+    },
+    {
+      "year": 2005,
+      "title": "XXX: State of the Union",
+      "role": "Agent Augustus Gibbons",
+      "director": "Lee Tamahori",
+      "studio": "Columbia Pictures",
+      "notes": "XXX sequel"
+    },
+    {
+      "year": 2005,
+      "title": "Star Wars: Episode III – Revenge of the Sith",
+      "role": "Mace Windu",
+      "director": "George Lucas",
+      "studio": "20th Century Fox",
+      "notes": "Final Star Wars prequel"
+    },
+    {
+      "year": 2005,
+      "title": "The Man",
+      "role": "Derrick Vann",
+      "director": "Les Mayfield",
+      "studio": "New Line Cinema",
+      "notes": "Comedy with Eugene Levy"
+    },
+    {
+      "year": 2006,
+      "title": "Freedomland",
+      "role": "Lorenzo Council",
+      "director": "Joe Roth",
+      "studio": "Columbia Pictures",
+      "notes": "Crime drama"
+    },
+    {
+      "year": 2006,
+      "title": "Snakes on a Plane",
+      "role": "Neville Flynn",
+      "director": "David R. Ellis",
+      "studio": "New Line Cinema",
+      "notes": "Internet phenomenon action thriller"
+    },
+    {
+      "year": 2006,
+      "title": "Home of the Brave",
+      "role": "Vanessa Price",
+      "director": "Irwin Winkler",
+      "studio": "MGM",
+      "notes": "Iraq War drama"
+    },
+    {
+      "year": 2007,
+      "title": "Black Snake Moan",
+      "role": "Lazarus",
+      "director": "Craig Brewer",
+      "studio": "Paramount Vantage",
+      "notes": "Southern drama with Christina Ricci"
+    },
+    {
+      "year": 2007,
+      "title": "1408",
+      "role": "Gerald Olin",
+      "director": "Mikael Håfström",
+      "studio": "MGM",
+      "notes": "Stephen King adaptation"
+    },
+    {
+      "year": 2007,
+      "title": "Resurrecting the Champ",
+      "role": "Champ",
+      "director": "Rod Lurie",
+      "studio": "FDR Pictures",
+      "notes": "Boxing drama"
+    },
+    {
+      "year": 2008,
+      "title": "Jumper",
+      "role": "Roland Cox",
+      "director": "Doug Liman",
+      "studio": "20th Century Fox",
+      "notes": "Sci-fi action"
+    },
+    {
+      "year": 2008,
+      "title": "Iron Man",
+      "role": "Nick Fury",
+      "director": "Jon Favreau",
+      "studio": "Marvel Studios / Paramount",
+      "notes": "Post-credits cameo, MCU debut"
+    },
+    {
+      "year": 2008,
+      "title": "Star Wars: The Clone Wars",
+      "role": "Mace Windu",
+      "director": "Dave Filoni",
+      "studio": "Warner Bros.",
+      "notes": "Animated Star Wars film"
+    },
+    {
+      "year": 2008,
+      "title": "Lakeview Terrace",
+      "role": "Abel Turner",
+      "director": "Neil LaBute",
+      "studio": "Screen Gems",
+      "notes": "Thriller"
+    },
+    {
+      "year": 2008,
+      "title": "Soul Men",
+      "role": "Louis Hinds",
+      "director": "Malcolm D. Lee",
+      "studio": "MGM",
+      "notes": "Comedy with Bernie Mac"
+    },
+    {
+      "year": 2008,
+      "title": "The Spirit",
+      "role": "The Octopus",
+      "director": "Frank Miller",
+      "studio": "Lionsgate",
+      "notes": "Comic book adaptation"
+    },
+    {
+      "year": 2009,
+      "title": "Astro Boy",
+      "role": "Zog",
+      "director": "David Bowers",
+      "studio": "Summit Entertainment",
+      "notes": "Voice role, animated"
+    },
+    {
+      "year": 2010,
+      "title": "Mother and Child",
+      "role": "Paul",
+      "director": "Rodrigo García",
+      "studio": "Sony Pictures Classics",
+      "notes": "Drama ensemble"
+    },
+    {
+      "year": 2010,
+      "title": "Iron Man 2",
+      "role": "Nick Fury",
+      "director": "Jon Favreau",
+      "studio": "Marvel Studios / Paramount",
+      "notes": "MCU supporting role"
+    },
+    {
+      "year": 2010,
+      "title": "The Other Guys",
+      "role": "Captain Gene Mauch",
+      "director": "Adam McKay",
+      "studio": "Columbia Pictures",
+      "notes": "Comedy with Will Ferrell"
+    },
+    {
+      "year": 2011,
+      "title": "Thor",
+      "role": "Nick Fury",
+      "director": "Kenneth Branagh",
+      "studio": "Marvel Studios / Paramount",
+      "notes": "MCU post-credits cameo"
+    },
+    {
+      "year": 2011,
+      "title": "Captain America: The First Avenger",
+      "role": "Nick Fury",
+      "director": "Joe Johnston",
+      "studio": "Marvel Studios / Paramount",
+      "notes": "MCU cameo"
+    },
+    {
+      "year": 2012,
+      "title": "The Avengers",
+      "role": "Nick Fury",
+      "director": "Joss Whedon",
+      "studio": "Marvel Studios / Disney",
+      "notes": "Major MCU role"
+    },
+    {
+      "year": 2012,
+      "title": "Django Unchained",
+      "role": "Stephen Warren",
+      "director": "Quentin Tarantino",
+      "studio": "Sony Pictures",
+      "notes": "Western, house slave character"
+    },
+    {
+      "year": 2013,
+      "title": "Oldboy",
+      "role": "Chaney",
+      "director": "Spike Lee",
+      "studio": "FilmDistrict",
+      "notes": "Remake of Korean film"
+    },
+    {
+      "year": 2014,
+      "title": "Captain America: The Winter Soldier",
+      "role": "Nick Fury",
+      "director": "Anthony Russo, Joe Russo",
+      "studio": "Marvel Studios / Disney",
+      "notes": "Major MCU role"
+    },
+    {
+      "year": 2014,
+      "title": "RoboCop",
+      "role": "Pat Novak",
+      "director": "José Padilha",
+      "studio": "Columbia Pictures",
+      "notes": "Remake, TV host character"
+    },
+    {
+      "year": 2015,
+      "title": "Avengers: Age of Ultron",
+      "role": "Nick Fury",
+      "director": "Joss Whedon",
+      "studio": "Marvel Studios / Disney",
+      "notes": "MCU supporting role"
+    },
+    {
+      "year": 2015,
+      "title": "Kingsman: The Secret Service",
+      "role": "Richmond Valentine",
+      "director": "Matthew Vaughn",
+      "studio": "20th Century Fox",
+      "notes": "Villain role, spy comedy"
+    },
+    {
+      "year": 2015,
+      "title": "The Hateful Eight",
+      "role": "Major Marquis Warren",
+      "director": "Quentin Tarantino",
+      "studio": "The Weinstein Company",
+      "notes": "Western, bounty hunter"
+    },
+    {
+      "year": 2015,
+      "title": "Chi-Raq",
+      "role": "Dolmedes",
+      "director": "Spike Lee",
+      "studio": "Roadside Attractions",
+      "notes": "Modern Lysistrata adaptation"
+    },
+    {
+      "year": 2016,
+      "title": "The Legend of Tarzan",
+      "role": "George Washington Williams",
+      "director": "David Yates",
+      "studio": "Warner Bros.",
+      "notes": "Adventure film"
+    },
+    {
+      "year": 2017,
+      "title": "Kong: Skull Island",
+      "role": "Lieutenant Colonel Preston Packard",
+      "director": "Jordan Vogt-Roberts",
+      "studio": "Warner Bros.",
+      "notes": "MonsterVerse film"
+    },
+    {
+      "year": 2017,
+      "title": "The Hitman's Bodyguard",
+      "role": "Darius Kincaid",
+      "director": "Patrick Hughes",
+      "studio": "Summit Entertainment",
+      "notes": "Action comedy with Ryan Reynolds"
+    },
+    {
+      "year": 2017,
+      "title": "XXX: Return of Xander Cage",
+      "role": "Agent Augustus Gibbons",
+      "director": "D.J. Caruso",
+      "studio": "Paramount Pictures",
+      "notes": "XXX franchise return"
+    },
+    {
+      "year": 2018,
+      "title": "Avengers: Infinity War",
+      "role": "Nick Fury",
+      "director": "Anthony Russo, Joe Russo",
+      "studio": "Marvel Studios / Disney",
+      "notes": "MCU post-credits cameo"
+    },
+    {
+      "year": 2018,
+      "title": "Incredibles 2",
+      "role": "Lucius Best / Frozone",
+      "director": "Brad Bird",
+      "studio": "Pixar / Disney",
+      "notes": "Voice role, sequel"
+    },
+    {
+      "year": 2019,
+      "title": "Glass",
+      "role": "Elijah Price / Mr. Glass",
+      "director": "M. Night Shyamalan",
+      "studio": "Universal Pictures",
+      "notes": "Unbreakable sequel"
+    },
+    {
+      "year": 2019,
+      "title": "Captain Marvel",
+      "role": "Nick Fury",
+      "director": "Anna Boden, Ryan Fleck",
+      "studio": "Marvel Studios / Disney",
+      "notes": "MCU co-lead, de-aged"
+    },
+    {
+      "year": 2019,
+      "title": "Avengers: Endgame",
+      "role": "Nick Fury",
+      "director": "Anthony Russo, Joe Russo",
+      "studio": "Marvel Studios / Disney",
+      "notes": "MCU supporting role"
+    },
+    {
+      "year": 2019,
+      "title": "Shaft",
+      "role": "John Shaft Sr.",
+      "director": "Tim Story",
+      "studio": "Warner Bros.",
+      "notes": "Shaft sequel"
+    },
+    {
+      "year": 2019,
+      "title": "Spider-Man: Far From Home",
+      "role": "Nick Fury",
+      "director": "Jon Watts",
+      "studio": "Sony Pictures / Marvel Studios",
+      "notes": "MCU major role"
+    },
+    {
+      "year": 2021,
+      "title": "The Hitman's Wife's Bodyguard",
+      "role": "Darius Kincaid",
+      "director": "Patrick Hughes",
+      "studio": "Summit Entertainment",
+      "notes": "Sequel to Hitman's Bodyguard"
+    },
+    {
+      "year": 2021,
+      "title": "Spiral",
+      "role": "Detective Ezekiel 'Zeke' Banks",
+      "director": "Darren Lynn Bousman",
+      "studio": "Lionsgate",
+      "notes": "Saw franchise entry with Chris Rock"
+    },
+    {
+      "year": 2022,
+      "title": "Paws of Fury: The Legend of Hank",
+      "role": "Jimbo",
+      "director": "Rob Minkoff, Mark Koetsier, Chris Bailey",
+      "studio": "Paramount Pictures",
+      "notes": "Voice role, animated comedy"
+    },
+    {
+      "year": 2023,
+      "title": "The Marvels",
+      "role": "Nick Fury",
+      "director": "Nia DaCosta",
+      "studio": "Marvel Studios / Disney",
+      "notes": "MCU cameo"
+    },
+    {   
+      "year": 2023,
+      "title": "Saw X",
+      "role": "Detective Ezekiel 'Zeke' Banks",
+      "director": "Kevin Greutert",
+      "studio": "Lionsgate",
+      "notes": "Saw franchise return"
+    },
+    {
+      "year": 2023,
+      "title": "The Banker",
+      "role": "Joe Morris",
+      "director": "George Nolfi",
+      "studio": "Apple TV+",
+      "notes": "Historical drama"
+    },
+    {
+      "year": 2023,
+      "title": "Secret Invasion",
+      "role": "Nick Fury",
+      "director": "Various",
+      "studio": "Marvel Studios / Disney+",
+      "notes": "Disney+ series, major role"
+    },
+    {
+      "year": 2023,
+      "title": "The Black Phone",
+      "role": "Detective John Finn",
+      "director": "Scott Derrickson",
+      "studio": "Universal Pictures",
+      "notes": "Horror film cameo"
+    },
+    {
+      "year": 2023,
+      "title": "The Last Days of Ptolemy Grey",
+      "role": "Ptolemy Grey",
+      "director": "Various",
+      "studio": "Apple TV+",
+      "notes": "Apple TV+ series, lead role"
+    },
+    {
+      "year": 2023,
+      "title": "The Hitman's Wife's Bodyguard 2",
+      "role": "Darius Kincaid",
+      "director": "Patrick Hughes",
+      "studio": "Summit Entertainment",
+      "notes": "Upcoming sequel"
+    },
+    {
+      "year": 2024,
+      "title": "The Marvels 2",
+      "role": "Nick Fury",
+      "director": "Nia DaCosta",
+      "studio": "Marvel Studios / Disney",
+      "notes": "Upcoming MCU sequel"
+    },
+    {
+      "year": 2024,
+      "title": "The Hitman's Bodyguard's Wife",
+      "role": "Darius Kincaid",
+      "director": "Patrick Hughes",
+      "studio": "Summit Entertainment",
+      "notes": "Upcoming sequel"
+    },
+    {
+      "year": 2024,
+      "title": "The Banker 2",
+      "role": "Joe Morris",
+      "director": "George Nolfi",
+      "studio": "Apple TV+",
+      "notes": "Upcoming sequel"
+    },
+    {
+      "year": 2024,
+      "title": "The Black Phone 2",
+      "role": "Detective John Finn",
+      "director": "Scott Derrickson",
+      "studio": "Universal Pictures",
+      "notes": "Upcoming sequel"
+    },
+    {
+      "year": 2024,
+      "title": "The Last Days of Ptolemy Grey 2",
+      "role": "Ptolemy Grey",
+      "director": "Various",
+      "studio": "Apple TV+",
+      "notes": "Upcoming sequel"
+    },
+    {
+      "year": 2024,
+      "title": "Secret Invasion 2",
+      "role": "Nick Fury",
+      "director": "Various",
+      "studio": "Marvel Studios / Disney+",
+      "notes": "Upcoming Disney+ series"
+    },
+    {
+      "year": 2024,
+      "title": "The Marvels 3",
+      "role": "Nick Fury",
+      "director": "Nia DaCosta",
+      "studio": "Marvel Studios / Disney",
+      "notes": "Upcoming MCU sequel"
+    }
+  ]
+} 

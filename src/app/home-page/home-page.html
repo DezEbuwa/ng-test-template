@@ -1,9 +1,9 @@
-<mat-card class="home-card">
+<mat-card class="content-card">
   <mat-card-header>
     <mat-card-title> Welcome to the Home Page</mat-card-title>
     <mat-card-subtitle>This is a template to help learn Angular</mat-card-subtitle>
   </mat-card-header>
   <mat-card-actions>
-    <button matButton>Contributors</button>
+    <button matButton [routerLink]="['/contributors']">Contributors</button>
   </mat-card-actions>
 </mat-card>
