@@ -7,3 +7,61 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .generic-spacer {
   flex: 1 1 auto;
 }
+
+
+/* Define Lockheed Martin color scheme */
+:root {
+  --lockheed-blue: #005bad;
+  --lockheed-blue-dark: #003f7d;
+  --lockheed-grey: #808285;
+  --lockheed-black: #000000;
+  --lockheed-white: #ffffff;
+  --lockheed-background: #f1f1f1;
+  --lockheed-warn: #d32f2f;
+}
+/* Toolbar */
+.mat-toolbar {
+  background-color: var(--lockheed-blue) !important;
+  color: var(--lockheed-white) !important;
+}
+
+/* Accent buttons */
+.mat-button.mat-accent,
+.mat-raised-button.mat-accent,
+.mat-flat-button.mat-accent {
+  background-color: var(--lockheed-grey) !important;
+  color: var(--lockheed-white) !important;
+}
+
+/* Primary buttons */
+.mat-button.mat-primary,
+.mat-raised-button.mat-primary,
+.mat-flat-button.mat-primary {
+  background-color: var(--lockheed-blue) !important;
+  color: var(--lockheed-white) !important;
+}
+
+/* Warn buttons */
+.mat-button.mat-warn,
+.mat-raised-button.mat-warn,
+.mat-flat-button.mat-warn {
+  background-color: var(--lockheed-warn) !important;
+  color: var(--lockheed-white) !important;
+}
+
+/* Inputs and form fields */
+.mat-form-field-appearance-fill .mat-form-field-flex {
+  background-color: var(--lockheed-white) !important;
+}
+
+.mat-form-field.mat-focused .mat-form-field-ripple {
+  background-color: var(--lockheed-blue) !important;
+}
+
+/* Footer styles */
+footer, .mat-footer {
+  background-color: var(--lockheed-black) !important;
+  color: var(--lockheed-white) !important;
+  padding: 16px;
+  text-align: center;
+}
