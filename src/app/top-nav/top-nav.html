@@ -1,0 +1,18 @@
+<mat-toolbar>
+  <button matIconButton class="example-icon" aria-label="Example icon-button with menu icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <span>{{ site_title }}</span>
+  <span class="generic-spacer"></span>
+  <ng-container *ngFor="let btn of nav_buttons; let i = index">
+    <ng-container *ngIf="!btn.subMenu">
+      <button mat-button [routerLink]="btn.route">{{ btn.name }}</button>
+    </ng-container>
+    <ng-container *ngIf="btn.subMenu?.length > 0">
+      <button mat-button [matMenuTriggerFor]="menu">{{ btn.name }}</button>
+      <mat-menu #menu="matMenu">
+        <button mat-menu-item *ngFor="let subitem of btn.subMenu; let i = index" [routerLink]="subitem.route">{{ subitem.name }}</button>
+      </mat-menu>
+    </ng-container>
+  </ng-container>
+</mat-toolbar>
