@@ -1,1 +1,23 @@
-<p>router-guards-demo works!</p>
+<mat-card class="content-card">
+  <mat-card-header>
+    <mat-card-title> Router Guard Demo</mat-card-title>
+    <mat-card-subtitle>Lets try out some router guards</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-content>
+    <mat-chip-set aria-label="Route Allowed">
+      <mat-chip>{{ isAuthorized() ? 'Allow' : 'Deny' }}</mat-chip>
+      <mat-chip *ngIf="isAuthorized(); else notAuthorized">You are authorized to access this route</mat-chip>
+      <ng-template #notAuthorized>
+        <mat-chip>You are not authorized to access this route</mat-chip>
+      </ng-template>
+    </mat-chip-set>
+    <section>
+      <label>Authorization to activate Route:</label>
+      <mat-radio-group [value]="isAuthorized() ? 'allow' : 'deny'" (change)="update($event)">
+        <mat-radio-button value="allow">Allow</mat-radio-button>
+        <mat-radio-button value="deny">Deny</mat-radio-button>
+      </mat-radio-group>
+    </section>
+    <button mat-raised-button color="primary" [routerLink]="['/protected-route']">Go To Route</button>
+  </mat-card-content>
+</mat-card>

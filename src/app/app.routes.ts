@@ -5,6 +5,9 @@ import { ModalDemo } from './pages/modal-demo/modal-demo';
 import { SignalsDemo } from './pages/signals-demo/signals-demo';
 import { RouterGuardsDemo } from './pages/router-guards-demo/router-guards-demo';
 import { Contributors } from './pages/contributors/contributors';
+import { ProtectedRoute } from './pages/router-guards-demo/protected-route';
+import { adminAccessGuard } from './pages/router-guards-demo/admin-access-guard';
+import { LoginPage } from './pages/router-guards-demo/login-page';
 
 export const routes: Routes = [
   { path: '', component: HomePage, pathMatch: 'full' }, // Default route
@@ -14,4 +17,6 @@ export const routes: Routes = [
   { path: 'signals', component: SignalsDemo, title: 'Signals Demo' }, 
   { path: 'router-guards', component: RouterGuardsDemo, title: 'Router Guards Demo' },  
   { path: 'contributors', component: Contributors, title: 'Contributors' }, 
+  { path: 'login', component: LoginPage, title: 'Login' }, 
+  { path: 'protected-route', component: ProtectedRoute, title: 'Protected Route', canActivate: [adminAccessGuard] }, 
 ];
