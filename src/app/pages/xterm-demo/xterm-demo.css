@@ -1,0 +1,18 @@
+#terminal {
+  height: 400px;
+  width: 100%;
+  position: relative;
+}
+
+
+/* Ensure the terminal viewport is properly positioned */
+.xterm-viewport {
+  position: relative !important;
+}
+
+.terminal-container {
+  height: 600px;
+  width: 800px;
+  background-color: #252022;
+  border-radius: 4px;
+}

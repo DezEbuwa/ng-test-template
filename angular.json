@@ -23,7 +23,13 @@
             ],
             "styles": [
               "@angular/material/prebuilt-themes/azure-blue.css",
+              "node_modules/@xterm/xterm/css/xterm.css",
+              "node_modules/@xterm/addon-fit/css/xterm-addon-fit.css",
               "src/styles.css"
+            ],
+            "scripts": [
+              "node_modules/@xterm/xterm/lib/xterm.js",
+              "node_modules/@xterm/addon-fit/lib/xterm-addon-fit.js"
             ]
           },
           "configurations": {

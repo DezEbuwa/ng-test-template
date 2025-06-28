@@ -37,7 +37,11 @@ const SITE_DATA = {
         { name: 'Signals', route: '/signals'},
         { name: 'Router Guards', route: '/router-guards' },
       ]
-    }
+    },
+    { name: 'External Tools', subMenu: [
+        { name: 'XTermJS', route: '/xterm' }
+      ] 
+    },
   ],
   speechForModal: `
     <p>I don't know what to say, really. Three minutes till the biggest battle of our professional lives all comes down to today. Now either we heal as a team or we're gonna crumble, inch by inch, play by play, 'til we're finished.</p>

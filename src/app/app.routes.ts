@@ -8,6 +8,7 @@ import { Contributors } from './pages/contributors/contributors';
 import { ProtectedRoute } from './pages/router-guards-demo/protected-route';
 import { adminAccessGuard } from './pages/router-guards-demo/admin-access-guard';
 import { LoginPage } from './pages/router-guards-demo/login-page';
+import { XtermDemo } from './pages/xterm-demo/xterm-demo';
 
 export const routes: Routes = [
   { path: '', component: HomePage, pathMatch: 'full' }, // Default route
@@ -18,5 +19,6 @@ export const routes: Routes = [
   { path: 'router-guards', component: RouterGuardsDemo, title: 'Router Guards Demo' },  
   { path: 'contributors', component: Contributors, title: 'Contributors' }, 
   { path: 'login', component: LoginPage, title: 'Login' }, 
+  { path: 'xterm', component: XtermDemo, title: 'XTermJS Demo' }, 
   { path: 'protected-route', component: ProtectedRoute, title: 'Protected Route', canActivate: [adminAccessGuard] }, 
 ];

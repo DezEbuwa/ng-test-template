@@ -22,7 +22,6 @@ export class RouterGuardsDemo {
 
   update($event: MatRadioChange) {
     const value = $event.value;
-    console.log('Radio button value changed:', value);
     this.isAuthorized.set(value === 'allow');
     // This method is called when the radio button selection changes
     this.authService.isAuthenticated = this.isAuthorized();
